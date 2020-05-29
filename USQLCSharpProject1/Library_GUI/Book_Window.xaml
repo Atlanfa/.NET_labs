@@ -1,0 +1,21 @@
+﻿<Window x:Class="Library_GUI.Book_Window"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Library_GUI"
+        mc:Ignorable="d"
+        Title="Book_Window" Height="388.5" Width="609.5" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Label Content="Title:" HorizontalAlignment="Left" Margin="118,48,0,0" VerticalAlignment="Top" FontSize="24"/>
+        <Label Content="Age Release:" HorizontalAlignment="Left" Margin="36,99,0,0" VerticalAlignment="Top" FontSize="24"/>
+        <Label Content="Id Author:" HorizontalAlignment="Left" Margin="64,154,0,0" VerticalAlignment="Top" FontSize="24"/>
+        <Label Content="Id Genre:" HorizontalAlignment="Left" Margin="72,210,0,0" VerticalAlignment="Top" FontSize="24"/>
+        <TextBox x:Name="title_txt" HorizontalAlignment="Left" Height="37" Margin="206,52,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="354" FontSize="24"/>
+        <TextBox x:Name="age_txt" HorizontalAlignment="Left" Height="37" Margin="206,104,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="354" FontSize="24"/>
+        <TextBox x:Name="author_txt"  HorizontalAlignment="Left" Height="38" Margin="206,158,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="354" FontSize="24"/>
+        <TextBox x:Name="genre_txt"  HorizontalAlignment="Left" Height="38" Margin="206,214,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="354" FontSize="24"/>
+        <Button x:Name="exec_btn" Content="Button" HorizontalAlignment="Left" Margin="206,282,0,0" VerticalAlignment="Top" Width="182" FontSize="24" Height="48" Click="exec_btn_Click"/>
+
+    </Grid>
+</Window>

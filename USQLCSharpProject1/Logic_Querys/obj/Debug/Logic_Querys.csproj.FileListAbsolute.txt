@@ -1,0 +1,31 @@
+D:\Software Development\C# All Persons\Евгений (Курсовая C#)\Library App\Logic_Querys\bin\Debug\Logic_Querys.dll.config
+D:\Software Development\C# All Persons\Евгений (Курсовая C#)\Library App\Logic_Querys\bin\Debug\Logic_Querys.dll
+D:\Software Development\C# All Persons\Евгений (Курсовая C#)\Library App\Logic_Querys\bin\Debug\Logic_Querys.pdb
+D:\Software Development\C# All Persons\Евгений (Курсовая C#)\Library App\Logic_Querys\bin\Debug\EntityFramework.dll
+D:\Software Development\C# All Persons\Евгений (Курсовая C#)\Library App\Logic_Querys\bin\Debug\EntityFramework.SqlServer.dll
+D:\Software Development\C# All Persons\Евгений (Курсовая C#)\Library App\Logic_Querys\bin\Debug\EntityFramework.xml
+D:\Software Development\C# All Persons\Евгений (Курсовая C#)\Library App\Logic_Querys\bin\Debug\EntityFramework.SqlServer.xml
+D:\Software Development\C# All Persons\Евгений (Курсовая C#)\Library App\Logic_Querys\obj\Debug\Logic_Querys.csprojAssemblyReference.cache
+D:\Software Development\C# All Persons\Евгений (Курсовая C#)\Library App\Logic_Querys\obj\Debug\Logic_Querys.csproj.CopyComplete
+D:\Software Development\C# All Persons\Евгений (Курсовая C#)\Library App\Logic_Querys\obj\Debug\Logic_Querys.dll
+D:\Software Development\C# All Persons\Евгений (Курсовая C#)\Library App\Logic_Querys\obj\Debug\Logic_Querys.pdb
+D:\Software Development\C# All Persons\Евгений (Курсовая C#)\Library App\Logic_Querys\bin\Debug\Data.dll
+D:\Software Development\C# All Persons\Евгений (Курсовая C#)\Library App\Logic_Querys\bin\Debug\Data.pdb
+D:\Software Development\C# All Persons\Евгений (Курсовая C#)\Library App\Logic_Querys\bin\Debug\Data.dll.config
+C:\Users\mc_al\source\repos\USQLCSharpProject1\Logic_Querys\bin\Debug\Logic_Querys.dll.config
+C:\Users\mc_al\source\repos\USQLCSharpProject1\Logic_Querys\bin\Debug\Logic_Querys.dll
+C:\Users\mc_al\source\repos\USQLCSharpProject1\Logic_Querys\bin\Debug\Logic_Querys.pdb
+C:\Users\mc_al\source\repos\USQLCSharpProject1\Logic_Querys\bin\Debug\Data.dll
+C:\Users\mc_al\source\repos\USQLCSharpProject1\Logic_Querys\bin\Debug\EntityFramework.dll
+C:\Users\mc_al\source\repos\USQLCSharpProject1\Logic_Querys\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mc_al\source\repos\USQLCSharpProject1\Logic_Querys\bin\Debug\Data.pdb
+C:\Users\mc_al\source\repos\USQLCSharpProject1\Logic_Querys\bin\Debug\Data.dll.config
+C:\Users\mc_al\source\repos\USQLCSharpProject1\Logic_Querys\bin\Debug\EntityFramework.xml
+C:\Users\mc_al\source\repos\USQLCSharpProject1\Logic_Querys\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mc_al\source\repos\USQLCSharpProject1\Logic_Querys\obj\Debug\Logic_Querys.csprojAssemblyReference.cache
+C:\Users\mc_al\source\repos\USQLCSharpProject1\Logic_Querys\obj\Debug\Logic_Querys.csproj.CoreCompileInputs.cache
+C:\Users\mc_al\source\repos\USQLCSharpProject1\Logic_Querys\obj\Debug\Logic_Querys.csproj.CopyComplete
+C:\Users\mc_al\source\repos\USQLCSharpProject1\Logic_Querys\obj\Debug\Logic_Querys.dll
+C:\Users\mc_al\source\repos\USQLCSharpProject1\Logic_Querys\obj\Debug\Logic_Querys.pdb
+C:\Users\mc_al\source\repos\USQLCSharpProject1\Logic_Querys\bin\Debug\DATA\Library_Database.mdf
+C:\Users\mc_al\source\repos\USQLCSharpProject1\Logic_Querys\bin\Debug\DATA\Library_Database_log.ldf

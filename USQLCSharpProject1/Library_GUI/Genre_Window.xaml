@@ -1,0 +1,15 @@
+﻿<Window x:Class="Library_GUI.Genre_Window"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Library_GUI"
+        mc:Ignorable="d"
+        Title="Genre_Window" Height="192.171" Width="622.242" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Label Content="Name:" HorizontalAlignment="Left" Margin="46,30,0,0" VerticalAlignment="Top" FontSize="24"/>
+        <TextBox x:Name="name_txt" HorizontalAlignment="Left" Height="37" Margin="204,35,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="354" FontSize="24"/>
+        <Button x:Name="exec_btn" Content="Button" HorizontalAlignment="Left" Margin="204,87,0,0" VerticalAlignment="Top" Width="182" FontSize="24" Height="48" Click="exec_btn_Click"  />
+
+    </Grid>
+</Window>

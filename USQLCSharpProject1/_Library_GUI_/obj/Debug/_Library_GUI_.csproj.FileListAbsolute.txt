@@ -1,0 +1,45 @@
+C:\Users\mc_al\source\repos\USQLCSharpProject1\_Library_GUI_\obj\Debug\_Library_GUI_.csprojAssemblyReference.cache
+C:\Users\mc_al\source\repos\USQLCSharpProject1\_Library_GUI_\obj\Debug\_Library_GUI_.Forms.Add_Author.resources
+C:\Users\mc_al\source\repos\USQLCSharpProject1\_Library_GUI_\obj\Debug\_Library_GUI_.Main_Form.resources
+C:\Users\mc_al\source\repos\USQLCSharpProject1\_Library_GUI_\obj\Debug\_Library_GUI_.Forms.Add_Book.resources
+C:\Users\mc_al\source\repos\USQLCSharpProject1\_Library_GUI_\obj\Debug\_Library_GUI_.Properties.Resources.resources
+C:\Users\mc_al\source\repos\USQLCSharpProject1\_Library_GUI_\obj\Debug\_Library_GUI_.csproj.GenerateResource.cache
+C:\Users\mc_al\source\repos\USQLCSharpProject1\_Library_GUI_\obj\Debug\_Library_GUI_.csproj.CoreCompileInputs.cache
+C:\Users\mc_al\source\repos\USQLCSharpProject1\_Library_GUI_\obj\Debug\_Library_GUI_.exe
+C:\Users\mc_al\source\repos\USQLCSharpProject1\_Library_GUI_\obj\Debug\_Library_GUI_.pdb
+C:\Users\mc_al\source\repos\USQLCSharpProject1\_Library_GUI_\bin\Debug\_Library_GUI_.exe.config
+C:\Users\mc_al\source\repos\USQLCSharpProject1\_Library_GUI_\bin\Debug\_Library_GUI_.exe
+C:\Users\mc_al\source\repos\USQLCSharpProject1\_Library_GUI_\bin\Debug\_Library_GUI_.pdb
+C:\Users\mc_al\source\repos\USQLCSharpProject1\_Library_GUI_\obj\Debug\_Library_GUI_.csproj.CopyComplete
+C:\Users\mc_al\source\repos\USQLCSharpProject1\_Library_GUI_\bin\Debug\EntityFramework.dll
+C:\Users\mc_al\source\repos\USQLCSharpProject1\_Library_GUI_\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mc_al\source\repos\USQLCSharpProject1\_Library_GUI_\bin\Debug\EntityFramework.xml
+C:\Users\mc_al\source\repos\USQLCSharpProject1\_Library_GUI_\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mc_al\source\repos\USQLCSharpProject1\_Library_GUI_\obj\Debug\_Library_GUI_.Forms.Add_Genre.resources
+C:\Users\mc_al\source\repos\USQLCSharpProject1\_Library_GUI_\obj\Debug\_Library_GUI_.Forms.Datas_FromService.resources
+D:\Software Development\C# All Persons\Евгений (Курсовая C#)\Library App\_Library_GUI_\bin\Debug\_Library_GUI_.exe.config
+D:\Software Development\C# All Persons\Евгений (Курсовая C#)\Library App\_Library_GUI_\bin\Debug\_Library_GUI_.exe
+D:\Software Development\C# All Persons\Евгений (Курсовая C#)\Library App\_Library_GUI_\bin\Debug\_Library_GUI_.pdb
+D:\Software Development\C# All Persons\Евгений (Курсовая C#)\Library App\_Library_GUI_\bin\Debug\EntityFramework.dll
+D:\Software Development\C# All Persons\Евгений (Курсовая C#)\Library App\_Library_GUI_\bin\Debug\EntityFramework.SqlServer.dll
+D:\Software Development\C# All Persons\Евгений (Курсовая C#)\Library App\_Library_GUI_\bin\Debug\EntityFramework.xml
+D:\Software Development\C# All Persons\Евгений (Курсовая C#)\Library App\_Library_GUI_\bin\Debug\EntityFramework.SqlServer.xml
+D:\Software Development\C# All Persons\Евгений (Курсовая C#)\Library App\_Library_GUI_\obj\Debug\_Library_GUI_.csprojAssemblyReference.cache
+D:\Software Development\C# All Persons\Евгений (Курсовая C#)\Library App\_Library_GUI_\obj\Debug\_Library_GUI_.Forms.Add_Author.resources
+D:\Software Development\C# All Persons\Евгений (Курсовая C#)\Library App\_Library_GUI_\obj\Debug\_Library_GUI_.Forms.Add_Genre.resources
+D:\Software Development\C# All Persons\Евгений (Курсовая C#)\Library App\_Library_GUI_\obj\Debug\_Library_GUI_.Forms.Datas_FromService.resources
+D:\Software Development\C# All Persons\Евгений (Курсовая C#)\Library App\_Library_GUI_\obj\Debug\_Library_GUI_.Main_Form.resources
+D:\Software Development\C# All Persons\Евгений (Курсовая C#)\Library App\_Library_GUI_\obj\Debug\_Library_GUI_.Forms.Add_Book.resources
+D:\Software Development\C# All Persons\Евгений (Курсовая C#)\Library App\_Library_GUI_\obj\Debug\_Library_GUI_.Properties.Resources.resources
+D:\Software Development\C# All Persons\Евгений (Курсовая C#)\Library App\_Library_GUI_\obj\Debug\_Library_GUI_.csproj.GenerateResource.cache
+D:\Software Development\C# All Persons\Евгений (Курсовая C#)\Library App\_Library_GUI_\obj\Debug\_Library_GUI_.csproj.CopyComplete
+D:\Software Development\C# All Persons\Евгений (Курсовая C#)\Library App\_Library_GUI_\obj\Debug\_Library_GUI_.exe
+D:\Software Development\C# All Persons\Евгений (Курсовая C#)\Library App\_Library_GUI_\obj\Debug\_Library_GUI_.pdb
+D:\Software Development\C# All Persons\Евгений (Курсовая C#)\Library App\_Library_GUI_\bin\Debug\Data.dll
+D:\Software Development\C# All Persons\Евгений (Курсовая C#)\Library App\_Library_GUI_\bin\Debug\Data.pdb
+D:\Software Development\C# All Persons\Евгений (Курсовая C#)\Library App\_Library_GUI_\bin\Debug\Data.dll.config
+C:\Users\mc_al\source\repos\USQLCSharpProject1\_Library_GUI_\bin\Debug\Data.dll
+C:\Users\mc_al\source\repos\USQLCSharpProject1\_Library_GUI_\bin\Debug\Data.pdb
+C:\Users\mc_al\source\repos\USQLCSharpProject1\_Library_GUI_\bin\Debug\Data.dll.config
+C:\Users\mc_al\source\repos\USQLCSharpProject1\_Library_GUI_\bin\Debug\DATA\Library_Database.mdf
+C:\Users\mc_al\source\repos\USQLCSharpProject1\_Library_GUI_\bin\Debug\DATA\Library_Database_log.ldf

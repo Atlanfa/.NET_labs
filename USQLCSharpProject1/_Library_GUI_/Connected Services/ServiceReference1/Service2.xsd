@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:complexType name="BookService">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Age_Release" type="xs:int" />
+      <xs:element minOccurs="0" name="Date_Updated" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="Id" type="xs:int" />
+      <xs:element minOccurs="0" name="Id_Author" type="xs:int" />
+      <xs:element minOccurs="0" name="Id_Genre" type="xs:int" />
+      <xs:element minOccurs="0" name="Title" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="BookService" nillable="true" type="tns:BookService" />
+  <xs:complexType name="AuthorService">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Date_of_Birth" type="xs:int" />
+      <xs:element minOccurs="0" name="Id" type="xs:int" />
+      <xs:element minOccurs="0" name="Name" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="AuthorService" nillable="true" type="tns:AuthorService" />
+  <xs:complexType name="GenreService">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Id" type="xs:int" />
+      <xs:element minOccurs="0" name="Name" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="GenreService" nillable="true" type="tns:GenreService" />
+</xs:schema>
