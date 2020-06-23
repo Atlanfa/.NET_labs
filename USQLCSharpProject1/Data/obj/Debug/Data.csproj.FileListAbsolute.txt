@@ -23,3 +23,17 @@ C:\Users\mc_al\source\repos\USQLCSharpProject1\Data\obj\Debug\Data.dll
 C:\Users\mc_al\source\repos\USQLCSharpProject1\Data\obj\Debug\Data.pdb
 C:\Users\mc_al\source\repos\USQLCSharpProject1\Data\bin\Debug\DATA\Library_Database.mdf
 C:\Users\mc_al\source\repos\USQLCSharpProject1\Data\bin\Debug\DATA\Library_Database_log.ldf
+C:\Users\mc_al\source\repos\.NET_labs\USQLCSharpProject1\Data\bin\Debug\DATA\Library_Database.mdf
+C:\Users\mc_al\source\repos\.NET_labs\USQLCSharpProject1\Data\bin\Debug\DATA\Library_Database_log.ldf
+C:\Users\mc_al\source\repos\.NET_labs\USQLCSharpProject1\Data\bin\Debug\Data.dll.config
+C:\Users\mc_al\source\repos\.NET_labs\USQLCSharpProject1\Data\bin\Debug\Data.dll
+C:\Users\mc_al\source\repos\.NET_labs\USQLCSharpProject1\Data\bin\Debug\Data.pdb
+C:\Users\mc_al\source\repos\.NET_labs\USQLCSharpProject1\Data\bin\Debug\EntityFramework.dll
+C:\Users\mc_al\source\repos\.NET_labs\USQLCSharpProject1\Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mc_al\source\repos\.NET_labs\USQLCSharpProject1\Data\bin\Debug\EntityFramework.xml
+C:\Users\mc_al\source\repos\.NET_labs\USQLCSharpProject1\Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mc_al\source\repos\.NET_labs\USQLCSharpProject1\Data\obj\Debug\Data.csprojAssemblyReference.cache
+C:\Users\mc_al\source\repos\.NET_labs\USQLCSharpProject1\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\mc_al\source\repos\.NET_labs\USQLCSharpProject1\Data\obj\Debug\Data.csproj.CopyComplete
+C:\Users\mc_al\source\repos\.NET_labs\USQLCSharpProject1\Data\obj\Debug\Data.dll
+C:\Users\mc_al\source\repos\.NET_labs\USQLCSharpProject1\Data\obj\Debug\Data.pdb

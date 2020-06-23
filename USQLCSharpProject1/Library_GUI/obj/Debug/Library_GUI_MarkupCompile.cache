@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-C:\Users\mc_al\source\repos\USQLCSharpProject1\Library_GUI\obj\Debug\
+C:\Users\mc_al\source\repos\.NET_labs\USQLCSharpProject1\Library_GUI\obj\Debug\
 Library_GUI
 none
 false
 DEBUG;TRACE
-C:\Users\mc_al\source\repos\USQLCSharpProject1\Library_GUI\App.xaml
+C:\Users\mc_al\source\repos\.NET_labs\USQLCSharpProject1\Library_GUI\App.xaml
 81908573700
 
 131514148663
-22-372871587
+22270441851
 Author_Window.xaml;Book_Window.xaml;Genre_Window.xaml;MainWindow.xaml;MSMQ_Messages_Window.xaml;Queries_Window.xaml;Serialize_Window.xaml;Service_Window.xaml;
 
 False
